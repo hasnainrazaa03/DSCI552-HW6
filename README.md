@@ -4,7 +4,8 @@ APS Failure at Scania Trucks data set: median imputation, coefficients of variat
 correlations, and tree ensembles on a heavily imbalanced problem. A random forest with
 no compensation, a class-weighted and a balanced random forest, an L1-penalized XGBoost
 model with alpha chosen by cross-validation, and XGBoost with SMOTE applied inside each
-training fold. Written answers to ISLR 6.6.3, 6.6.5, 8.4.5 and 9.7.3.
+training fold. Written answers to ISLR 6.6.3, 6.6.5, 8.4.5 and 9.7.3. The extra practice problems
+(ISLR 5.4.2, 6.8.4, 8.4.4 and 9.7.2) are in a second notebook.
 
 Name: Mohammad Hasnain Raza
 GitHub Username: hasnainrazaa03
@@ -14,7 +15,8 @@ USC ID: 1259246355
 
 ```
 data/aps_failure/   aps_failure_training_set.csv, aps_failure_test_set.csv, aps_failure_description.txt
-notebook/           Raza_MohammadHasnain_HW6.ipynb
+notebook/           Raza_MohammadHasnain_HW6.ipynb (the homework)
+                    Raza_MohammadHasnain_HW6_Extra.ipynb (extra practice)
 requirements.txt    package versions used
 ```
 
